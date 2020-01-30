@@ -1,0 +1,1 @@
+# BQ-Zum-Core-2.0-Bluetooth-Low-Energy-Example
